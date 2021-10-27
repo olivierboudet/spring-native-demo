@@ -1,3 +1,3 @@
-# spring-native-issue-1159
+# spring-native demo
 
 Simple repro for some spring-native issues
